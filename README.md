@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Check out the live app [Kasper Web Template]()
+Check out the live app [Kasper Web Template](https://kasper-template-nine.vercel.app/)
 
 ## Tools Used
 
@@ -16,7 +16,7 @@ Check out the live app [Kasper Web Template]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/kasper-template.git
     ```
 
 2. Navigate to the Project Directory:
